@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: 803bf8dd2f3daa741b1416e6d134b222
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: C_Head_RED
+    21300002: F_Arm_01_RED
+    21300004: Cosa Gris Render Partes Rojas_2
+    21300006: B_Arm_01_RED
+    21300008: C_Neck_RED
+    21300010: F_Arm_02_RED
+    21300012: B_Arm_02_RED
+    21300014: C_Torso_03_RED
+    21300016: F_Hand_RED
+    21300018: B_Hand_RED
+    21300020: C_Torso_02_RED
+    21300022: F_Leg_01_RED
+    21300024: B_Leg_01_RED
+    21300026: C_Torso_01_RED
+    21300028: F_Leg_02_RED
+    21300030: B_Leg_02_RED
+    21300032: F_Feet_01_RED
+    21300034: F_Feet_02_RED
+    21300036: B_Feet_01_RED
+    21300038: B_Feet_02_RED
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: C_Head_RED
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1317
+        width: 118
+        height: 159
+      alignment: 9
+      pivot: {x: 0.42726976, y: 0.38125247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6403b4b17acebaf478122741d2310a4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Arm_01_RED
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1359
+        width: 224
+        height: 98
+      alignment: 9
+      pivot: {x: 0.87142247, y: 0.70005333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba814116e6c94b45928f9255918e634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cosa Gris Render Partes Rojas_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1443
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf20a4776f2eb45ae89b000beea9a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Arm_01_RED
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1376
+        width: 224
+        height: 80
+      alignment: 9
+      pivot: {x: 0.10968181, y: 0.5963837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeeae96f13850c4caea2c076919d9dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Neck_RED
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1092
+        width: 108
+        height: 192
+      alignment: 9
+      pivot: {x: 0.3410704, y: 0.24074554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122b86a0b780d674c98aaabf5d928702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Arm_02_RED
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1172
+        width: 168
+        height: 97
+      alignment: 9
+      pivot: {x: 0.85140026, y: 0.6875428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb3f475b985a5e44b356e96fa4513e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Arm_02_RED
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1204
+        width: 170
+        height: 65
+      alignment: 9
+      pivot: {x: 0.13862485, y: 0.44618014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5452722aca27f949be5cf8372402888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Torso_03_RED
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 904
+        width: 157
+        height: 165
+      alignment: 9
+      pivot: {x: 0.44147208, y: 0.285238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b553246ba88293f46a93585dac38e0a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hand_RED
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1031
+        width: 111
+        height: 76
+      alignment: 9
+      pivot: {x: 0.83506954, y: 0.75509804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6866750da5eca4bb51b822b9ff50b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Hand_RED
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1043
+        width: 120
+        height: 64
+      alignment: 9
+      pivot: {x: 0.17309646, y: 0.43040276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b492f52fa7eeaba49a49dfd6a8269e23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Torso_02_RED
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 686
+        width: 141
+        height: 186
+      alignment: 9
+      pivot: {x: 0.37649676, y: 0.30917457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902d3f62c1febf448aac0a1616a3c018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Leg_01_RED
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 715
+        width: 192
+        height: 264
+      alignment: 9
+      pivot: {x: 0.82814056, y: 0.86640584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd24af8da216274990595079cb9f126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Leg_01_RED
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 611
+        width: 250
+        height: 209
+      alignment: 9
+      pivot: {x: 0.14252222, y: 0.8290534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e4ea7c11257ad44aa93706f74cbc4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Torso_01_RED
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 499
+        width: 122
+        height: 162
+      alignment: 9
+      pivot: {x: 0.4101329, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fc8ee81a2c85d4fb290dae2b426234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Leg_02_RED
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 467
+        width: 201
+        height: 227
+      alignment: 9
+      pivot: {x: 0.84518796, y: 0.8661421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dbee530a7ef864cbdbcbb865f13a08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Leg_02_RED
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 331
+        width: 193
+        height: 234
+      alignment: 9
+      pivot: {x: 0.1784241, y: 0.85627496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581c43bf241c5004391092ca427fc694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Feet_01_RED
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 300
+        width: 90
+        height: 94
+      alignment: 9
+      pivot: {x: 0.58789504, y: 0.7434569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a134d06ea94ce5409008486c5fe4c49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Feet_02_RED
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 133
+        width: 93
+        height: 96
+      alignment: 9
+      pivot: {x: 0.30983645, y: 0.80799085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062c05b234f2120428e74c172cd59933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Feet_01_RED
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 199
+        width: 94
+        height: 86
+      alignment: 9
+      pivot: {x: 0.30105266, y: 0.6872906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acdfdde226eb484a85588f290fd4949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Feet_02_RED
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 59
+        width: 106
+        height: 74
+      alignment: 9
+      pivot: {x: 0.20061392, y: 0.3896937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b08961af86b4f6498355e49e15b31ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c5d09c009890a4f4db48f08938ef7ef7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

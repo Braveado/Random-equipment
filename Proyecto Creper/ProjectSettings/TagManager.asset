@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Floor
+  - Climbable
+  - Wall
+  - Item
+  - PickUp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - LightSources
+  - LightObstacles
+  - AmbientLight
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1807644429
+    locked: 0
+  - name: Terrain
+    uniqueID: 2541251175
+    locked: 0
+  - name: Player
+    uniqueID: 3519730575
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1308594611
+    locked: 0
+  - name: UI
+    uniqueID: 2095720683
+    locked: 0

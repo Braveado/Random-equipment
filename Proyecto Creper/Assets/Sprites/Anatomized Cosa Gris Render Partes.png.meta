@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 10931839209c30342b148bfccb8e7fa8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: C_Head
+    21300002: F_Arm_01
+    21300004: Anatomized Cosa Gris Render Partes_2
+    21300006: B_Arm_01
+    21300008: C_Neck
+    21300010: F_Arm_02
+    21300012: B_Arm_02
+    21300014: C_Torso_03
+    21300016: F_Hand
+    21300018: B_Hand
+    21300020: C_Torso_02
+    21300022: F_Leg_01
+    21300024: B_Leg_01
+    21300026: C_Torso_01
+    21300028: F_Leg_02
+    21300030: B_Leg_02
+    21300032: F_Feet_01
+    21300034: F_Feet_02
+    21300036: B_Feet_01
+    21300038: B_Feet_02
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: C_Head
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1317
+        width: 118
+        height: 159
+      alignment: 9
+      pivot: {x: 0.42726976, y: 0.38125247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: F_Arm_01
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1359
+        width: 224
+        height: 98
+      alignment: 9
+      pivot: {x: 0.8772579, y: 0.7107843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Anatomized Cosa Gris Render Partes_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1443
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_Arm_01
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1376
+        width: 224
+        height: 80
+      alignment: 9
+      pivot: {x: 0.110166825, y: 0.5938934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C_Neck
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1092
+        width: 108
+        height: 192
+      alignment: 9
+      pivot: {x: 0.3410704, y: 0.2318058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: F_Arm_02
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1172
+        width: 168
+        height: 97
+      alignment: 9
+      pivot: {x: 0.85769635, y: 0.6935972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_Arm_02
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1204
+        width: 170
+        height: 65
+      alignment: 9
+      pivot: {x: 0.13546537, y: 0.45666316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C_Torso_03
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 904
+        width: 157
+        height: 165
+      alignment: 9
+      pivot: {x: 0.445336, y: 0.2815437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: F_Hand
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1031
+        width: 111
+        height: 76
+      alignment: 9
+      pivot: {x: 0.83836156, y: 0.75944597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_Hand
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1043
+        width: 120
+        height: 64
+      alignment: 9
+      pivot: {x: 0.16354166, y: 0.42664337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C_Torso_02
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 686
+        width: 141
+        height: 186
+      alignment: 9
+      pivot: {x: 0.37826657, y: 0.30620846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: F_Leg_01
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 715
+        width: 192
+        height: 264
+      alignment: 9
+      pivot: {x: 0.83097, y: 0.8681375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_Leg_01
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 611
+        width: 250
+        height: 209
+      alignment: 9
+      pivot: {x: 0.14115039, y: 0.83385706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C_Torso_01
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 499
+        width: 122
+        height: 162
+      alignment: 9
+      pivot: {x: 0.41558513, y: 0.4152376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: F_Leg_02
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 467
+        width: 201
+        height: 227
+      alignment: 9
+      pivot: {x: 0.8471453, y: 0.86776346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_Leg_02
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 331
+        width: 193
+        height: 234
+      alignment: 9
+      pivot: {x: 0.17720056, y: 0.8567617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: F_Feet_01
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 300
+        width: 90
+        height: 94
+      alignment: 9
+      pivot: {x: 0.58306646, y: 0.73859584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: F_Feet_02
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 133
+        width: 93
+        height: 96
+      alignment: 9
+      pivot: {x: 0.29903126, y: 0.8115004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_Feet_01
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 199
+        width: 94
+        height: 86
+      alignment: 9
+      pivot: {x: 0.30116922, y: 0.68834776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_Feet_02
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 59
+        width: 106
+        height: 74
+      alignment: 9
+      pivot: {x: 0.2061307, y: 0.39897197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
