@@ -11,7 +11,7 @@
 - Unity.
 - C#.
 
-### Caracteristicas importantes: 
+### Important features: 
 - Item data base.
 - Player inventory system.
 - Items spawn with random modifications.
